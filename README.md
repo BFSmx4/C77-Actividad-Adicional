@@ -1,2 +1,2 @@
-# e-library-PRO-C70
-Solution code for PRO-C70
+# PROC70-1_4 - Biblioteca digital
+PRO-C70 - solución del código
